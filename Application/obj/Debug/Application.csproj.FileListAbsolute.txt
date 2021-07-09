@@ -1,0 +1,5 @@
+E:\VS STUDIO\ASP.NET MVC\Fashion\Application\bin\Debug\Application.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\Application\bin\Debug\Application.pdb
+E:\VS STUDIO\ASP.NET MVC\Fashion\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+E:\VS STUDIO\ASP.NET MVC\Fashion\Application\obj\Debug\Application.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\Application\obj\Debug\Application.pdb

@@ -1,0 +1,14 @@
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\MyDb.dll.config
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\MyDb.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\MyDb.pdb
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\EntityFramework.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\EntityFramework.SqlServer.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\PagedList.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\PagedList.Mvc.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\EntityFramework.xml
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\EntityFramework.SqlServer.xml
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\PagedList.xml
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\bin\Release\PagedList.Mvc.xml
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\obj\Release\MyDb.csprojResolveAssemblyReference.cache
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\obj\Release\MyDb.dll
+E:\VS STUDIO\ASP.NET MVC\Fashion\MyDb\obj\Release\MyDb.pdb
